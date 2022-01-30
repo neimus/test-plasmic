@@ -1,0 +1,125 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.freeBox__rhpVu {
+  max-width: 1024px;
+  display: flex;
+  flex-direction: row;
+  flex-column-gap: 0px;
+  position: relative;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  min-width: 0;
+  padding: 32px;
+}
+.svg__knYqL {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg___4XnSy {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.freeBox__pyJb3 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__pyJb3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__pyJb3 > :global(.__wab_flex-container) > *,
+.freeBox__pyJb3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__pyJb3 > :global(.__wab_flex-container) > picture > img,
+.freeBox__pyJb3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.searchButtonsearchOpen:global(.__wab_instance) {
+  min-width: 200px;
+}
+.svg___8HmPs {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__zEsLz {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.searchInput:global(.__wab_instance) {
+  position: relative;
+  max-width: 200px;
+  display: none;
+}
+.searchInputsearchOpen:global(.__wab_instance) {
+  display: flex;
+}
+.svg__an6Dw {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__ccFrs {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__fMHm {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__cS0N0 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.freeBox___3RtxQ {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.svg___4DkG {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  height: auto;
+  width: auto;
+}
+.svg__iva7M {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
